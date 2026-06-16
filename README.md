@@ -2,15 +2,42 @@
 
 ## Project Overview
 
-This project is an end-to-end Retail Sales Analytics solution developed using PostgreSQL, Excel, and Tableau. The BikeStores dataset was analyzed to uncover sales trends, customer behavior, product performance, store-level performance, and regional sales insights.
+This project is an end-to-end Retail Sales Analytics solution developed using PostgreSQL, Excel, and Tableau. The BikeStores dataset was analyzed to uncover sales trends, customer behavior, product performance, store-level performance and regional sales insights.
 
-Data was imported into PostgreSQL for analysis and querying. SQL was used to extract meaningful business insights, and the results were visualized through interactive dashboards in Tableau and Excel.
+Data was imported into PostgreSQL for analysis and querying. SQL was used to extract meaningful business insights and the results were visualized through interactive dashboards in Tableau and Excel.
 
 ---
+## Dashboard Preview
+### Excel Dashboard
+<p>The Excel dashboard was developed using Pivot Tables, Pivot Charts and Slicers to provide an interactive sales reporting solution. Users can filter data by year, state, and brand to explore revenue trends and business performance metrics.</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/162fbc7f-0fbf-4b52-88ea-3c6a4d50db8e" width="49%">
+  <img src="https://github.com/user-attachments/assets/4b994db5-825a-46bc-9223-6b086bfbdaa9" width="49%">
+</p>
+
+<p align="center">
+  <em>Interactive Retail Sales Analytics Dashboard built using Excel.</em>
+</p>
+
+## Tableau Dashboard
+<p>The Tableau dashboard provides an interactive view of retail sales performance enabling users to analyze revenue trends, customer behavior, product performance, store contributions and sales representative effectiveness through dynamic filters.
+  
+</p>
+<p align="center">
+  <img width="49%" src="https://github.com/user-attachments/assets/987e061e-07bb-4b4e-802e-a221de1929bb" />
+  <img width="49%" src="https://github.com/user-attachments/assets/3799ad71-5c3f-4b51-b831-c4edd441d0a2" />
+
+<p align="center">
+  <em>
+  Overall Business Performance (2016) &nbsp; | &nbsp;
+  Filtered Analysis (California - 2017)
+  </em>
+</p>
 
 ## Business Problem
 
-Retail businesses generate large volumes of sales data across products, customers, stores, and regions. Analyzing this data manually is time-consuming and inefficient.
+Retail businesses generate large volumes of sales data across products, customers, stores and regions. Analyzing this data manually is time-consuming and inefficient.
 
 This project aims to provide a centralized dashboard that enables stakeholders to:
 
@@ -42,13 +69,13 @@ This project aims to provide a centralized dashboard that enables stakeholders t
 - Imported the BikeStores dataset into PostgreSQL.
 
 ### 2. Data Analysis Using SQL
-- Queried sales, customer, product, and store data.
+- Queried sales, customer, product and store data.
 - Performed aggregations and business analysis.
 - Extracted insights using SQL queries.
 
 ### 3. Data Visualization
 - Created interactive dashboards in Tableau.
-- Developed an Excel dashboard using Pivot Tables, Pivot Charts, and Slicers.
+- Developed an Excel dashboard using Pivot Tables, Pivot Charts and Slicers.
 
 ### 4. Insight Generation
 - Identified revenue trends.
@@ -143,11 +170,6 @@ Retail-Sales-Analytics-Dashboard/
 
 ---
 
-## Author
-
-**Naaz**
-
-Aspiring Data Analyst
 
 ### Skills
 SQL | PostgreSQL | Python | Tableau | Excel | Power BI | Machine Learning
